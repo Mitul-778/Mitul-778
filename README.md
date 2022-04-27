@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="center" width= "50%"  /> 
 </br>Hii ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Mitul Asodariya <img height="50" src="https://camo.githubusercontent.com/eff6d06962a561a00c761b67edaa3dcce718108731781eea93bbb21940ba556a/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966"> </h1>
-<h3 align="left">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack from Surat, Gujarat (India)</h3>
+<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack from Surat, Gujarat (India)</h3>
 <br>
  🙋 About Me
 
