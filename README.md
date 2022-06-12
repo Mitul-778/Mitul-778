@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **[React.js]()**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mitul.netlify.app/)**
 
 - 📫 How to reach me **mitulpatel778@gmail.com**
 
@@ -22,7 +22,7 @@
 <h2 align="left">☕ Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70"> </h2>
 <br>
  <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/mitulpatel778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mitul-asodariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mitul-asodariya/" height="30" width="40" /></a>
 <a href="https://medium.com/@mitulpatel778" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-F0ACFCCD58-seeklogo.com.png" alt="https://medium.com/@mitulpatel778" height="40" width="40"/></a>
 <hr>
